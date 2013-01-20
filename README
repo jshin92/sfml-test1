@@ -1,0 +1,6 @@
+Very first app for sfml 1.6 using c++
+
+Can be compiled with:
+
+g++ test.cpp  -lsfml-graphics -lsfml-window -lsfml-system
+
