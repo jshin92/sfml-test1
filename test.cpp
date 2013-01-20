@@ -19,8 +19,7 @@ int main()
 		}
 
 		App.Clear();
-		App.Draw(sf::Shape::Circle(200, 200, 100, sf::Color::Yellow,
-															 10, sf::Color::Blue));
+		App.Draw(sf::Shape::Circle(200, 200, 100, sf::Color::Yellow, 10, sf::Color::Blue));
 
 		App.Display();
 	}
